@@ -1,0 +1,2 @@
+# Prim.js
+Prim algorithm
